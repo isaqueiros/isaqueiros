@@ -13,7 +13,6 @@
 
 ```javascript
 const bela = {
-  pronouns: "she | her",
   code: ["Python", "C++", "R", "Java", "SQL"],
   databases: ["Snowflake", "MySQL", "SAS"],
   dataScienceTools: ["PyTorch", "Scikit-learn", "Matplotlib", "Seaborn", "PowerBI", "Tableau"]
