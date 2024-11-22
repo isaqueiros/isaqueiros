@@ -2,7 +2,8 @@
 
 ### About
 
--  **Studies :** BSc Software Engineer (currently on 3rd Year)
+-  **Studies :** BSc Software Engineering (currently on 3rd Year)
+-  **Role :** Information Analyst, with experience in data analysis, reporting, and database management
 -  **Learning :** ROS2 🤖 | PyTorch :fire:
 -  **Hobbies :** Hiking & Scuba Diving :flipper:
 -  **Ask me about :** Anything! I'm happy to help :v:
