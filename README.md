@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**isaqueiros/isaqueiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About
 
-Here are some ideas to get you started:
+-  **Studies :** BSc Software Engineer (currently on 3rd Year)
+-  **Learning :** ROS2 🤖 | PyTorch :fire:
+-  **Hobbies :** Hiking & Scuba Diving :flipper:
+-  **Ask me about :** Anything! I'm happy to help :v:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 👩‍💻Coding Languages & Tech Stack:
+
+```javascript
+const bela = {
+  pronouns: "she" | "her",
+  code: [Python, C++, R, Java],
+  databases: [Snowflake, MySQL, phpMyAdmin, SAS Enterprise Guide],
+  visualisation: [PowerBI, Tableau, Matplotlib]
+}
+```
+
+Feel free to explore my repositories, or reach out if you'd like to collaborate on a project! 🚀
+
+Thanks for visiting my profile! 😄
