@@ -14,8 +14,8 @@
 const bela = {
   pronouns: "she" | "her",
   code: [Python, C++, R, Java],
-  databases: [Snowflake, MySQL, phpMyAdmin, SAS Enterprise Guide],
-  visualisation: [PowerBI, Tableau, Matplotlib]
+  databases: [Snowflake, MySQL, SAS],
+  dataScienceTools: ["PyTorch", "Scikit-learn", "Matplotlib", "Seaborn", "PowerBI", "Tableau"]
 }
 ```
 
