@@ -14,7 +14,7 @@
 ```javascript
 const bela = {
   code: ["Python", "C++", "R", "Java", "SQL"],
-  databases: ["Snowflake", "MySQL", "SAS"],
+  databases: ["Snowflake", "MySQL", "SAS", "MongoDB"],
   dataScienceTools: ["PyTorch", "Scikit-learn", "Matplotlib", "Seaborn", "PowerBI", "Tableau"]
 }
 ```
