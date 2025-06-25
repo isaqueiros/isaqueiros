@@ -2,7 +2,7 @@
 
 ### About
 
--  **Studies :** BSc Software Engineering (currently on 3rd Year)
+-  **Studies :** BSc Software Engineering (currently on 4th Year)
 -  **Experience :** Data analysis, reporting, and database management
 -  **Learning :** PyTorch :fire:
 -  **Hobbies :** Hiking & Scuba Diving :flipper:
@@ -15,7 +15,7 @@
 const bela = {
   code: ["Python", "R", "Java", "SQL"],
   databases: ["Snowflake", "MySQL", "SAS", "MongoDB"],
-  dataScienceTools: ["PyTorch", "Scikit-learn", "Matplotlib", "Seaborn", "PowerBI", "Tableau"]
+  dataScienceTools: ["PyTorch", "Tensorflow", "Scikit-learn", "Matplotlib", "Seaborn", "PowerBI", "Tableau"]
 }
 ```
 
